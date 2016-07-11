@@ -1,0 +1,22 @@
+{
+  "name": "photo-jinny",
+  "version": "1.0.0",
+  "description": "personal project for sending photos to users via telegram bot",
+  "main": "photo-jinny.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daedaluschan/PhotoJinny.git"
+  },
+  "author": "Daedalus Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daedaluschan/PhotoJinny/issues"
+  },
+  "homepage": "https://github.com/daedaluschan/PhotoJinny#readme",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.10"
+  }
+}
