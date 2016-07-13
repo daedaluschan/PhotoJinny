@@ -11,6 +11,9 @@ class PingController extends TelegramBaseController {
      * @param {Scope} $
      */
     pingHandler($) {
+        console.log('BEFORE print param in the Handler');
+        console.log($);
+        console.log('FINISH print param in the Handler');
         $.sendMessage('pong')
     }
 
