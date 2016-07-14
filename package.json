@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/daedaluschan/PhotoJinny#readme",
   "dependencies": {
+    "crypto-js": "^3.1.6",
     "syno": "^2.0.0",
     "telegram-node-bot": "^3.0.10"
   }
